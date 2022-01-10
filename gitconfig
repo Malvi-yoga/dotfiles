@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = smaqi.malvina@gmail.com
+	name = Malvina Smaqi
